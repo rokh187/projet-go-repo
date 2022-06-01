@@ -1,0 +1,3 @@
+2.3	Rédaction et utilisation de normes de programmation
+À la racine de votre dossier git devra se trouver un document contenant les normes de programmation que vous utilisez 
+(indentation, langue, commentaires, majuscules, etc.; visez une page environ). Tous les membres de l’équipe doivent les respecter.

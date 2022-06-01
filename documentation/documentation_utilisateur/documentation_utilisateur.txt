@@ -1,0 +1,4 @@
+2.8.1	Documentation utilisateur
+
+C’est un document que vous préparez pour le client. 
+Vous devez détailler, à l’aide de captures d’écran et de texte, comment utiliser votre application.

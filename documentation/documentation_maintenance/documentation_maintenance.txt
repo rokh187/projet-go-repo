@@ -1,0 +1,5 @@
+2.8.2	Documentation maintenance
+C’est un document que vous préparez pour votre futur vous ou un autre programmeur. 
+Vous devez expliquer comment maintenir l’application. 
+Avez des exemples de code et d’explications des technlogies utilisées, 
+le lecteur doit être en mesure de comprendre comment ajouter une fonctionnalité à votre application aisément.
